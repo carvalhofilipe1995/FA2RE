@@ -1,0 +1,11 @@
+up201303104 - Vitor Esteves
+
+HOW TO RUN:
+
+jjtree Calculator.jjt
+
+javacc Calculator.jj
+
+javac *.java
+
+java Calculator

@@ -1,0 +1,6 @@
+Exercício 3
+
+A gramática apresentada, após as alterações, é ambígua, pois não contempla a regra aritmética de prioridade da multiplicação e divisão em relação à adição e à subtracção. Deste modo poderiam ser geradas várias árvores sintáticas diferentes para cadeias de entrada iguais.
+
+
+Nota: Ao adicionar "+" no fim de Expr1 e Expr2 é possivel aceitar mais do que uma operação.
